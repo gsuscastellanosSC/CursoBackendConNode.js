@@ -1,0 +1,2 @@
+# CursoBackendConNode.js
+Introducción y bienvenida Guillermo Rodas será tu profesor en este curso, él tiene más 6 años dedicado a programar sólo en JavaScript y forma parte del equipo de Auth0, además de ser Google Developer Expert (GDE) en Web Technologies y organizador de eventos como Medellin CSS y CSS Conf.  Requisitos antes de iniciar:  Node y NPM Editor de texto ya sea vsCode, Atom o Sublime Text Navegador Chrome o Firefox Extensión JSON viewer Postman en @platzi https://platzi.com/clases/1646-backend-nodejs/22012-introduccion-y-bienvenida/ 💚💚💚
